@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Earthquake Catalog</string>
+    <string name="search">SEARCH</string>
+    <string name="earthquake_catalog">FIND EARTHQUAKES</string>
+    <string name="earthquake_list">List of Earthquakes</string>
+    <string name="magnitude">MAGNITUDE</string>
+    <string name="location">LOCATION</string>
+    <string name="set_min_magnitude">SET MIN. MAGNITUDE</string>
+    <string name="set_earthquakes_time">SET EARTHQUAKES WITHIN LAST</string>
+
+    <string-array name="magnitude_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>7 days</item>
+        <item>30 days</item>
+    </string-array>
+
+</resources>
